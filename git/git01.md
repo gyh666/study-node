@@ -110,3 +110,7 @@
 
 - `git clone [地址]`
  + 会得到远程仓储相同的数据,如果多次执行会覆盖本地内容。
+ 
+ - `git remote add origin [地址]`
+ - `git push origin master`
+ + 简化提交步骤
