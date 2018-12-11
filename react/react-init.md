@@ -1,6 +1,5 @@
 # react项目搭建的过程
 
-仓库地址： [https://github.com/xieqingtian/react-build-tutorial](https://github.com/xieqingtian/react-build-tutorial)
 
 - **step 0 安装项目所需依赖包**
 
